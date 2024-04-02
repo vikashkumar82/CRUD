@@ -1,0 +1,45 @@
+.checkBoxDiv{
+  display: flex;
+  align-items: center;
+}
+
+input.checkBox {
+  height: 25px;
+  margin-top: 5px;
+  width: 52px;
+}
+
+.inputBox {
+  width: 421px;
+}
+
+.checkBoxDiv label {
+  font-size: 15px;
+  font-weight: 450;
+}
+
+.submit {
+  margin-left: -49px;
+  width: 178px;
+}
+
+th {
+  text-align: center;
+}
+
+td{
+  text-align: center;
+}
+
+td.updateDeleteBtn {
+  text-align: center;
+  width: 0px;
+}
+
+.actionButton {
+  width: 109px;
+}
+
+aside.ant-layout-sider.ant-layout-sider-dark {
+  height: 703px;
+}
